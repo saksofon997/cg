@@ -113,3 +113,26 @@ D:\Fakultet\IV godina\Grafika\RG - RA Vezbe 4\AssimpSample\AssimpSample\obj\x86\
 D:\Fakultet\IV godina\Grafika\RG - RA Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
 D:\Fakultet\IV godina\Grafika\RG - RA Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
 D:\Fakultet\IV godina\Grafika\RG - RA Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CoreCompileInputs.cache
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Saki\GitProjects\ComputerGraphics\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
